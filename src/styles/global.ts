@@ -29,7 +29,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     background-color: var(--background-color);
   }
 
